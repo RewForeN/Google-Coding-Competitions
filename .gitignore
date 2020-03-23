@@ -1,2 +1,10 @@
 
+# VsCode files
 .vscode
+
+
+# 
+*.tcs
+*.exe
+*.stackdump
+*.obj
